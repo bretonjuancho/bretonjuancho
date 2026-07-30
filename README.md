@@ -55,5 +55,12 @@
   
 ## 📫 Contact
 
-- LinkedIn: [https://linkedin.com/in/...](https://www.linkedin.com/in/juan-pablo-bret%C3%B3n/)
-- Email: bretonjuanp@gmail.com
+<p align="center">
+  <a href="https://linkedin.com/in/juan-pablo-bretón">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:bretonjuanp@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail"/>
+  </a>
+</p>
