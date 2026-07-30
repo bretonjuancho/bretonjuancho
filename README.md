@@ -38,16 +38,6 @@ Git • GitHub • Docker • VS Code • Figma
 
 ---
 
-## 🚀 Featured Projects
----
-
-### 🌱 Smart Irrigation Landing Page
-Modern landing page developed for a real company.
-
-**Tech:** Next.js • TypeScript • TailwindCSS
-
----
-
 ## 🌱 Currently Learning
 
 - Machine Learning
