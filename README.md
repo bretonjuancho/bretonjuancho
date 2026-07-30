@@ -15,26 +15,11 @@
 
 ## 🛠️ Tech Stack
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+## 💻 Technologies
 
-### Frontend
-React • Next.js • Tailwind CSS • HTML • CSS
-
-### Backend
-Spring Boot • Node.js
-
-### Databases
-MySQL • PostgreSQL
-
-### AI & Data
-Python • Pandas • Scikit-Learn • Prompt Engineering
-
-### Tools
-Git • GitHub • Docker • VS Code • Figma
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nextjs,nodejs,spring,tailwind,html,css,mysql,postgres,docker,git,github,vscode,figma,postman&perline=6" />
+</p>
 
 ---
 
