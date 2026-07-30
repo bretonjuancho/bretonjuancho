@@ -13,8 +13,6 @@
 
 ---
 
-## 🛠️ Tech Stack
-
 ## 💻 Technologies
 
 <p align="center">
