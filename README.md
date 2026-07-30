@@ -25,13 +25,34 @@
 
 ---
 
-## 🌱 Currently Learning
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-- Machine Learning
-- Artificial Intelligence
-- Software Architecture
-- Cloud Computing
+---
 
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🎯 Engineering Interests
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 🌐 Full Stack Development
+- ☁️ Cloud Computing
+- 🏗️ Software Architecture
+- 📊 Data Engineering
+  
 ## 📫 Contact
 
 - LinkedIn: [https://linkedin.com/in/...](https://www.linkedin.com/in/juan-pablo-bret%C3%B3n/)
