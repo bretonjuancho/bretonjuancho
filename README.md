@@ -49,7 +49,7 @@
 ## 📫 Contact
 
 <p align="center">
-  <a href="https://linkedin.com/in/juan-pablo-bretón">
+  <a href="https://linkedin.com/in/juan-pablo-breton">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
   &nbsp;&nbsp;
