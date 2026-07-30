@@ -1,5 +1,9 @@
 ## Hi there 👋 I'm Juan Pablo Bretón
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Information+Systems+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Prompt+Engineering;Always+learning+new+technologies" />
+</p>
+
 ## 🚀 About Me
 
 🎓 Final-year Information Systems Engineering student at UTN Santa Fe, Argentina.
