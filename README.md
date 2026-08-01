@@ -57,7 +57,7 @@
     <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
    <a href="https://codeforces.com/profile/juancho_">
-    <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" height="45"/>
+    <img src="./assets/icons/codeforces.png" alt="Codeforces" height="45"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://judge.beecrowd.com/es/profile/644047">
