@@ -46,7 +46,7 @@
 - 🏗️ Software Architecture
 - 📊 Data Engineering
   
-## 📫 Contact
+## 📫 Connect with me
 
 <p align="center">
   <a href="https://linkedin.com/in/juan-pablo-breton">
@@ -55,5 +55,12 @@
   &nbsp;&nbsp;
   <a href="mailto:bretonjuanp@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail"/>
+  </a>
+   <a href="https://codeforces.com/profile/juancho_">
+    <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" height="45"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://judge.beecrowd.com/es/profile/644047">
+    <img src="https://cdn.simpleicons.org/beecrowd" height="45"/>
   </a>
 </p>
