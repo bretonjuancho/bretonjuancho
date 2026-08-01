@@ -61,6 +61,6 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://judge.beecrowd.com/es/profile/644047">
-    <img src="./assets/icons/beecrowd.svg" alt="BeeCrowd" height="45"/>
+    <img src="./assets/icons/beecrowd.png" alt="BeeCrowd" height="45"/>
   </a>
 </p>
