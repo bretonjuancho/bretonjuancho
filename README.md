@@ -46,21 +46,36 @@
 - 🏗️ Software Architecture
 - 📊 Data Engineering
   
-## 📫 Connect with me
+## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/juan-pablo-breton">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  <a href="https://github.com/bretonjuancho" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="50"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://linkedin.com/in/juan-pablo-breton" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
   <a href="mailto:bretonjuanp@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail"/>
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="50"/>
   </a>
-   <a href="https://codeforces.com/profile/juancho_">
-    <img src="./assets/icons/codeforces.png" alt="Codeforces" height="45"/>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://codeforces.com/profile/juancho_" target="_blank">
+    <img src="./assets/icons/codeforces.png" alt="Codeforces" height="50"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://judge.beecrowd.com/es/profile/644047">
-    <img src="./assets/icons/beecrowd.png" alt="BeeCrowd" height="45"/>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://judge.beecrowd.com/es/profile/644047" target="_blank">
+    <img src="./assets/icons/beecrowd.png" alt="BeeCrowd" height="50"/>
   </a>
+</p>
+
+<p align="center">
+  <sub>
+    GitHub • LinkedIn • Email • Codeforces • BeeCrowd
+  </sub>
 </p>
