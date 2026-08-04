@@ -1,5 +1,5 @@
-<div align="center">
- ## Hi there 👋 I'm Juan Pablo Bretón
+<div align="center" style="font-size: 48px; font-weight: bold;">
+ Hi there 👋 I'm Juan Pablo Bretón
 </div>
 
 ## 🚀 About Me
