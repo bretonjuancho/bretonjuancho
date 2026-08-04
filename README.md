@@ -1,4 +1,6 @@
-## Hi there 👋 I'm Juan Pablo Bretón
+<div align="center">
+ ## Hi there 👋 I'm Juan Pablo Bretón
+</div>
 
 ## 🚀 About Me
 
@@ -9,7 +11,7 @@
 🤖 Passionate about Artificial Intelligence, and software architecture.
 
 📊 Currently developing my final engineering project:
-**Failure Prediction System for National Weather Radars using Machine Learning.**
+**Failure Prediction System for Weather Radars using Machine Learning.**
 
 ---
 
