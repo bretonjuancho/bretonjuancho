@@ -8,7 +8,7 @@
 
 💻 Full Stack Developer focused on building modern web applications with React, Next.js and TypeScript.
 
-🤖 Passionate about Artificial Intelligence, and software architecture.
+🤖 Passionate about Artificial Intelligence and software architecture.
 
 📊 Currently developing my final engineering project:
 **Failure Prediction System for Weather Radars using Machine Learning.**
