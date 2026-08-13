@@ -2,7 +2,7 @@
  <h1>Hi there 👋 I'm Juan Pablo Bretón</h1>
 </div>
 
-## 🚀 About Me
+## 🙋‍♂️ About Me
 
 🎓 Final-year Information Systems Engineering student at UTN Santa Fe, Argentina.
 
