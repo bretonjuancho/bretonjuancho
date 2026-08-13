@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 
-🎓 Final-year Information Systems Engineering student at UTN Santa Fe, Argentina.
+🎓 Final-year Information Systems Engineering student at UTN Santa Fé, Argentina.
 
 💻 Full Stack Developer focused on building modern web applications with React, Next.js and TypeScript.
 
