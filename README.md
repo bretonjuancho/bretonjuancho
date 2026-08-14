@@ -47,11 +47,6 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/bretonjuancho" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="50"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-
   <a href="https://linkedin.com/in/juan-pablo-breton" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="50"/>
   </a>
@@ -74,6 +69,6 @@
 
 <p align="center">
   <sub>
-    GitHub • LinkedIn • Email • Codeforces • BeeCrowd
+    LinkedIn • Email • Codeforces • BeeCrowd
   </sub>
 </p>
