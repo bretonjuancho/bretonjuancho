@@ -18,7 +18,7 @@
 ## 💻 Technologies
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,react,nextjs,nodejs,spring,tailwind,html,css,mysql,postgres,docker,git,github,vscode,figma,postman&perline=6" />
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,react,nextjs,nodejs,spring,tailwind,html,css,mysql,postgres,docker,git,vscode,postman&perline=6" />
 </p>
 
 ---
