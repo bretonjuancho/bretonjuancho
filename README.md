@@ -1,6 +1,6 @@
 <div align="center">
   <h1><code>< Juan Pablo Bretón /></code></h1>
-  <p>Information Systems Engineer | Crafting systems that solve real problems</p>
+  <p>Information Systems Engineer</p>
 </div>
 
 ## 🙋‍♂️ About Me
