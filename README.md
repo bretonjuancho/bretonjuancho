@@ -7,9 +7,7 @@
 
 🎓 Final-year Information Systems Engineering student at UTN Santa Fé, Argentina.
 
-💻 Full Stack Developer focused on building modern web applications with React, Next.js and TypeScript.
-
-🤖 Passionate about Artificial Intelligence and software architecture.
+🤖 AI & Machine Learning || 💻 Full Stack Dev
 
 📊 Currently working on my final engineering project:
 **Failure Prediction System for Weather Radars using Machine Learning.**
