@@ -9,7 +9,7 @@
 
 🤖 AI & Machine Learning || 💻 Full Stack Dev
 
-📊 Currently working on my final engineering project:
+📊 Currently working on my final degree project:
 **Failure Prediction System for Weather Radars using Machine Learning.**
 
 ---
