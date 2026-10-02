@@ -11,7 +11,7 @@
 
 🤖 Passionate about Artificial Intelligence and software architecture.
 
-📊 Currently developing my final engineering project:
+📊 Currently working on my final engineering project:
 **Failure Prediction System for Weather Radars using Machine Learning.**
 
 ---
