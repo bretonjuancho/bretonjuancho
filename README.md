@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-🎓 Final-year Information Systems Engineering student at UTN Santa Fé, Argentina.
+🎓 Final-year Information Systems Engineering student at UTN Santa Fe, Argentina.
 
 🤖 AI & Machine Learning || 💻 Full Stack Dev
 
