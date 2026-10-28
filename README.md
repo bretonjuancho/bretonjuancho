@@ -21,7 +21,6 @@ I'm a final-year Information Systems Engineering student at **UTN Santa Fe**, fo
 
 - 🎓 Final degree project: **Failure Prediction System for Weather Radars using Machine Learning**
 - 🧠 Interests: AI, machine learning, software architecture, cloud computing and data engineering
-- 🏁 I practice competitive programming on Codeforces and beecrowd
 
 ## 🛠️ Tech stack
 
