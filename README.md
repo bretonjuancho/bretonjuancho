@@ -32,7 +32,7 @@ I'm a final-year Information Systems Engineering student at **UTN Santa Fe**, fo
 | **Languages** | <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,html,css" alt="Languages"/> |
 | **Frameworks** | <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,spring,tailwind" alt="Frameworks"/> |
 | **Databases** | <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Databases"/> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=docker,git,vscode,postman" alt="Tools"/> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=docker,git,vscode,postman" alt="Tools"/><br/>![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white) ![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=flat&logoColor=white) |
 
 </div>
 
