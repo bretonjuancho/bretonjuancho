@@ -41,11 +41,8 @@ I'm a final-year Information Systems Engineering student at **UTN Santa Fe**, fo
 | Project | Description | Stack |
 |:--|:--|:--|
 | [**ml-predictive-i40**](https://github.com/bretonjuancho/ml-predictive-i40) | Predictive maintenance on the Industry 4.0 (i40) dataset. Compares Decision Tree, KNN and Random Forest to predict equipment failures from sensor data, with data cleaning, correlation analysis and feature selection. | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) |
-| [**back-ma**](https://github.com/bretonjuancho/back-ma) | Backend for the Agile Methods course. | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) |
-| [**front-ma**](https://github.com/bretonjuancho/front-ma) | Frontend for the Agile Methods course. | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) |
-| [**ics-tp**](https://github.com/bretonjuancho/ics-tp) | Software Engineering and Quality course project. | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) |
 | [**algoritmos-utn**](https://github.com/bretonjuancho/algoritmos-utn) | Study material for Algorithms and Data Structures. | ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) |
-| [**nutribot**](https://github.com/bretonjuancho/nutribot) | Python project. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
+| [**nutribot**](https://github.com/bretonjuancho/nutribot) | ReAct agent that suggests recipes from soon-to-expire ingredients to reduce food waste. Combines an SQLite inventory, the Spoonacular API, a RAG fallback (ChromaDB + sentence-transformers over ~25K Kaggle recipes), USDA FoodData Central for macro estimates, and an LLM (Groq), with a Streamlit UI. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
 
 ## 📊 GitHub stats
 
